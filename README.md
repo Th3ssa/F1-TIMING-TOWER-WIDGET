@@ -28,6 +28,8 @@ A live F1 timing tower widget for SillyTavern that updates in real time alongsid
 ---
 
 ## Installation
+copy paste on ST install extension:
+https://github.com/Th3ssa/F1-TIMING-TOWER-WIDGET
 
 ### Manual (Termux — recommended for ST on Android)
 
