@@ -1,0 +1,12 @@
+{
+  "display_name": "F1 Live Timing Tower",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Th3ssa",
+  "version": "4.0.0",
+  "homePage": "https://github.com/Th3ssa/F1-TIMING-TOWER-WIDGET",
+  "auto_update": false
+}
