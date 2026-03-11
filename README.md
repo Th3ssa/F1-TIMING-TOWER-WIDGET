@@ -33,7 +33,7 @@ A live F1 timing tower widget for SillyTavern that updates in real time alongsid
 1. In SillyTavern, go to **Extensions → Install Extension**
 2. Paste the URL of this repository:
    ```
-   https://github.com/YOUR_USERNAME/f1-timing-tower
+   https://github.com/Th3ssa/f1-timing-tower
    ```
 3. Click **Install**
 4. Hard-refresh the page
@@ -42,7 +42,7 @@ A live F1 timing tower widget for SillyTavern that updates in real time alongsid
 
 ```bash
 cd ~/SillyTavern/public/extensions/third-party/
-git clone https://github.com/YOUR_USERNAME/f1-timing-tower.git
+git clone https://github.com/Th3ssa/f1-timing-tower.git
 ```
 
 Then reload SillyTavern and enable the extension in the Extensions panel.
