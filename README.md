@@ -25,6 +25,13 @@ A live F1 timing tower widget for SillyTavern that updates in real time alongsid
 - **Lap counter** display
 - Clean dark F1 broadcast aesthetic with Titillium Web font
 
+new updates:
+- more compact size
+- last race placement info retention
+- added fictional logo
+- new animation for position lost or gained
+- will note of circuit name/number of laps in lorebook
+- has countdown timer at the start of the race, depending on the circuit
 ---
 
 ## Installation
